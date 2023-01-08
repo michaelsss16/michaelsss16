@@ -1,6 +1,6 @@
 # Olá!
 
-Meu nome é Michael e sou um  desenvolvedor de software com mais de dois  anos de experiência. Eu amo trabalhar em projetos que envolvem soluções tecnológicas para problemas reais e gosto de aprender sobre novas linguagens de programação. Sou deficiente visual e amante por soluções de acessibilidade e inclusão.
+Meu nome é Michael e sou um  desenvolvedor de software com mais de dois  anos de experiência. Eu amo trabalhar em projetos que envolvem soluções tecnológicas para problemas reais e gosto de aprender sobre novas linguagens de programação. Sou deficiente visual e amante de soluções de acessibilidade e inclusão.
 
 ## Projetos
 
