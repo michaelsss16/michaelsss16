@@ -1,11 +1,11 @@
-# Seja bem vindo/a ao meu perfil!!!
+# Bem-vindo/a ao meu perfil no GitHub!
 
-## Um pouco sobre mim
-Meu nome é Michael e sou um  desenvolvedor de software com mais de dois  anos de experiência. Eu amo trabalhar em projetos que envolvem soluções tecnológicas para problemas reais e gosto de aprender sobre novas linguagens de programação. Sou deficiente visual e amante de soluções de acessibilidade e inclusão.
+## Sobre mim
+Sou Michael Silva, formado em engenharia de controle e automação industrial (UFMG) e  desenvolvedor de software desde 2020. Sou apaixonado por trabalhar em projetos que envolvem soluções tecnológicas para problemas reais e adoro aprender novas linguagens de programação. Além disso, sou deficiente visual e defensor da acessibilidade e inclusão.
 
 ## Projetos
 
-Aqui estão alguns dos projetos em que já trabalhei:
+Alguns dos projetos em que já trabalhei incluem:
 
 - [Plataforma de representação musicográfica](https://github.com/michaelsss16/PFC---Musicografia): Um console de comunicação com uma plataforma de representação de musicografia braille para leitura com os pés.
 
@@ -21,8 +21,9 @@ Aqui estão alguns dos projetos em que já trabalhei:
 - Interesses: BackEnd, Acessibilidade
 
 ## Hobbies
-- Músico a mais de cinco anos
+- Músico desde 2013.
 - Amante de livros
+- 
 ## Contato
 
 Se você quiser entrar em contato comigo, basta enviar um e-mail para michaelsss16@gmail.com  ou me encontrar nas redes sociais acima. Obrigado
