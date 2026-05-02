@@ -18,7 +18,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 ## Projetos em Destaque
 
 - [Plataforma de representação musicográfica](https://github.com/michaelsss16/PFC---Musicografia): Um console de comunicação com uma plataforma de representação de musicografia braille para leitura com os pés.
-- [Projeto social: curso de canto](https://michaelsss16.github.io/michaelsilvacanto/): plataforma de conteúdos sobre música e canto formulado para uso em projeto social que participo.
+- [Projeto social - curso de canto](https://michaelsss16.github.io/michaelsilvacanto/): plataforma de conteúdos sobre música e canto formulado para uso em projeto social que participo.
 
 ## hobbies
 
