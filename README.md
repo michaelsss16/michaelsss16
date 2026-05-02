@@ -2,7 +2,9 @@
 
 ## Sobre mim
 
-Engenheiro de Controle e Automação pela UFMG com trajetória em desenvolvimento de software iniciada em 2020. Apaixonado em converter desafios complexos em soluções eficientes, com foco constante em aprender e evoluir tecnicamente. Comprometido com a democratização do acesso digital, utilizo minha vivência como desenvolvedor com deficiência visual para promover a acessibilidade e a inclusão no ecossistema de software.
+Sou Michael Silva, programador back-end e deficiente visual.
+
+Me formei em Engenhairia de Controle e Automação pela UFMG com trajetória em desenvolvimento de software iniciada em 2020. Apaixonado em converter desafios complexos em soluções eficientes, com foco constante em aprender e evoluir tecnicamente. Comprometido com a democratização do acesso digital, utilizo minha vivência como desenvolvedor com deficiência visual para promover a acessibilidade e a inclusão no ecossistema de software.
 
 ## Tecnologias e Ferramentas
 
